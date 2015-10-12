@@ -1,2 +1,2 @@
-# snew-todo
-Todo Example app for snew
+# generator-snew
+A generator thing for snew 
