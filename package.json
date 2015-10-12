@@ -20,6 +20,7 @@
     "url": "git+https://github.com/plusgut/snew-application.git"
   },
   "keywords": [
+    "yeoman-generator",
     "grunt",
     "snew"
   ],
@@ -28,5 +29,8 @@
   "bugs": {
     "url": "https://github.com/plusgut/snew-application/issues"
   },
-  "homepage": "https://github.com/plusgut/snew-application#readme"
+  "homepage": "https://github.com/plusgut/snew-application#readme",
+  "dependencies": {
+    "yeoman-generator": "^0.20.3"
+  }
 }

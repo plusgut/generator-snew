@@ -1,14 +1,12 @@
 {
-  "name": "snew-application",
+  "name": "generator-snew",
   "version": "0.1.0",
-  "homepage": "https://github.com/plusgut/snew-application",
+  "homepage": "https://github.com/plusgut/generator-snew",
   "authors": [
     "plusgut <cj@lvl3.org>"
   ],
-  "description": "example for a snew application",
-  "moduleType": [
-    "amd"
-  ],
+  "description": "generator for a snew application",
+  "keywords": ["yeoman-generator"],
   "license": "MIT",
   "dependencies": {
     "jquery": "~2.1.4",
