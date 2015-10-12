@@ -1,5 +1,5 @@
 {
-  "name": "snew-application",
+  "name": "genartor-snew",
   "version": "0.1.0",
   "description": "grunt for snew",
   "main": "app.js",
@@ -23,6 +23,11 @@
     "yeoman-generator",
     "grunt",
     "snew"
+  ],
+  "files": [
+    "src",
+    "Gruntfile.js",
+    "bower.json"
   ],
   "author": "Carlo Jeske",
   "license": "MIT",
