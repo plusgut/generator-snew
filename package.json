@@ -1,7 +1,7 @@
 {
   "name": "generator-snew",
-  "version": "0.1.0",
-  "description": "grunt for snew",
+  "version": "0.1.3",
+  "description": "generator for snew applications",
   "main": "app.js",
   "devDependencies": {
     "grunt": "^0.4.5",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/plusgut/snew-application.git"
+    "url": "git+https://github.com/plusgut/generator-snew.git"
   },
   "keywords": [
     "yeoman-generator",
@@ -32,9 +32,9 @@
   "author": "Carlo Jeske",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/plusgut/snew-application/issues"
+    "url": "https://github.com/plusgut/generator-snew/issues"
   },
-  "homepage": "https://github.com/plusgut/snew-application#readme",
+  "homepage": "https://github.com/plusgut/generator-snew#readme",
   "dependencies": {
     "yeoman-generator": "^0.20.3"
   }
